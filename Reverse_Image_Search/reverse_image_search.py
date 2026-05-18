@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 reverse_image_search.py — Reverse Image Search Automator
-OSINT Portfolio | Skript 6c
 
 Zadáš fotografii (soubor nebo URL), skript otevře záložky v prohlížeči
 pro Yandex Images, TinEye a Google Images. Ty zadáš nálezy ručně,
