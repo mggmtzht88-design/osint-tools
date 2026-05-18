@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-OSINT Skript 4a — Metadata Extractor
+Metadata Extractor
 Extrahuje EXIF metadata z fotografií (GPS, čas, zařízení).
 Výstup: terminál + CSV s timestampem v názvu souboru.
 
