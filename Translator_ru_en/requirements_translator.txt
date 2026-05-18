@@ -1,0 +1,3 @@
+# Závislosti pro translator.py
+deepl>=1.18.0
+requests>=2.31.0

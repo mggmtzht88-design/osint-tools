@@ -1,0 +1,21 @@
+# Output and input data
+input/
+output/
+csv/
+json/
+log/
+TXT/
+Translated/
+
+# Log files
+*.log
+
+# Data files
+*.csv
+*.json
+
+# macOS system files
+.DS_Store
+
+# PDF Docu
+PDF Docu/
