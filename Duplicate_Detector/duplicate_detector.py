@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 duplicate_detector.py — Duplicate Content Detector
-OSINT Portfolio | Skript 6b
 
 Detekuje stejný nebo velmi podobný text na více různých doménách.
 Indikátor koordinované IO kampaně (astroturfing).
@@ -141,7 +140,7 @@ def compute_similarity(text_a, text_b):
       - 0%   = zcela odlišné texty
 
     Používáme množiny slov (set) — každé slovo se počítá jen jednou.
-    To je záměrné: hledáme překryv témat/obsahu, ne přesné kopie.
+    Hledáme překryv témat/obsahu, ne přesné kopie.
     """
     words_a = set(text_a.lower().split())
     words_b = set(text_b.lower().split())
