@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-OSINT Skript 4c — Network Mapper
+Network Mapper
 Mapuje vazby mezi zdroji na základě sdílených klíčových slov.
 Vizualizuje IO sítě jako PNG (statický) a HTML (interaktivní).
 
