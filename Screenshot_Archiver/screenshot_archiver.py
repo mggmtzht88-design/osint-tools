@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-OSINT Skript 4b — Screenshot Archiver
 Zachytí full-page screenshot webu včetně URL a timestampu.
 Výstup: PNG screenshot + JSON a CSV metadata soubory.
 
