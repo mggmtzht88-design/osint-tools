@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 wayback_checker.py — Wayback Machine Checker
-OSINT Portfolio | Skript 6a
 
 Porovná aktuální verzi webu s nejnovější archivní verzí na Wayback Machine.
 Výstup: terminál + CSV s rozdíly.
